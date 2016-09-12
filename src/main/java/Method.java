@@ -2,7 +2,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
- * Created by 1 on 11.09.2016.
+ * Created by Danylo Pidtiagyn on 12.09.2016.
  */
 public class Method {
 
